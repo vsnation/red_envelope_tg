@@ -1,2 +1,2 @@
-# red_envelope_tg
+# Red Envelope TG
 Red Envelope TG
